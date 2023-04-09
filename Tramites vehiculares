@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Trámites Vehiculares</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Trámites Vehiculares<br><em>*FER*</em></h1>
+    <div class="contenedor">
+        <div class="header">
+            <h2> Evite multas e infracciones </h2>
+        </div>
+        <div class="main">
+            <h3> Conoce Nuestros Servicios</h3>
+            <ul>
+                <li>Placas por primera vez </li>
+                <li>Placas para moto nueva </li>
+                <li>Placas para moto nunca emplacadas a bajo costo </li>
+                <li>Cambio de propietario </li>
+                <li>Reposicion de tarjeta de circulación </li>
+                <li>Renovacion de placas </li>
+                <li>Cambio de entidad al estado de México </li>
+            </ul>
+        </div>
+        <div class="sidebar">
+            <h2> Cotizaciones Sin Costo <br> Trámites 100% Seguros y Rápidos </h2>
+            <p>Información al #5537710803 <br> o Facebook Clik al boton ↓</p>
+            <a href="https://www.facebook.com/profile.php?id=100077369026463&mibextid=ZbWKwL"><button>Clik!</button></a>
+        </div>
+        <div class="footer">
+            <h4> Derechos Reservados <br> Autor: Guillermo Martinez García </h4>
+        </div>
+        <img src="/img/logos.png" height="850" width="460">
+    </div>
+    <img src="/img/tarjeta.png" width="980" height="580">
+</body>
+</html>
